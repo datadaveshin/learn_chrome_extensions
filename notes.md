@@ -83,8 +83,11 @@ Also includes a default icon for the toolbar
 1. Click 'Load unpacked extensions'
 
 #6 JS file
-1. js scripts should not be in the html
-1. instead, should be outside, so call them with the script tag and src
+1. js scripts should not be in the html (it's frowned upon)
+1. instead, should be outside in their own files, so call them with the `<script>` tag and src
 
 #7 jquery
 1. Here he puts the jQuery file in the directory to be served and calls it like the other .js file
+
+#8 css
+1. css can be in all three places - within element, within html doc, or separate file, we will use separate file
