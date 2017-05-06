@@ -85,3 +85,6 @@ Also includes a default icon for the toolbar
 #6 JS file
 1. js scripts should not be in the html
 1. instead, should be outside, so call them with the script tag and src
+
+#7 jquery
+1. Here he puts the jQuery file in the directory to be served and calls it like the other .js file
