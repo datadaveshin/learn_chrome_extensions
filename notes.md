@@ -91,3 +91,5 @@ Also includes a default icon for the toolbar
 
 #8 css
 1. css can be in all three places - within element, within html doc, or separate file, we will use separate file
+
+#14 Chrome
